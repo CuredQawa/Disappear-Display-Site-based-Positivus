@@ -2,7 +2,7 @@
 import { Image } from "astro:assets";
 import Facebook from "../../assets/facebook.svg";
 import Linkedin from "../../assets/linkedin.svg";
-import Logo from "../../assets/logo-alt.svg";
+import Logo from "../../assets/logo.svg";
 import Twitter from "../../assets/twitter.svg";
 import ShortForm from "../ui/ShortForm.astro";
 
@@ -13,11 +13,12 @@ const logos = [
 ];
 
 const links = [
-  { name: "About us", href: "#about" },
-  { name: "Services", href: "#services" },
+  { name: "About me", href: "#about" },
+  { name: "Hobbies", href: "#services" },
   { name: "Use Cases", href: "#cases" },
-  { name: "Pricing", href: "#Testimonials" },
-  { name: "Blog", href: "#Home" },
+  { name: "Pricing", href: "/pricing" },
+  { name: "Home", href: "/" },
+  { name: "Blogs", href: "https://blog.disappear.website" },
 ];
 ---
 
@@ -69,12 +70,12 @@ const links = [
           <div
             class="flex text-center lg:text-start flex-col w-full lg:w-[30%]"
           >
-            <h3 class="mb-5 text-center md:text-left text-2xl text-green">Contact us</h3>
+            <h3 class="mb-5 text-center md:text-left text-2xl text-green">Contect ME</h3>
             <div class="flex flex-col justify-between gap-4">
-              <span> Email: examplemail.com </span>
-              <span> Phone: +123 456 789 </span>
+              <span> Email: 3753347363@qq.com </span>
+              <span> Phone: +123 456 789 (fake) </span>
               <span class="lg:w-3/4">
-                Address: 1234 Street Name, City Name, Country Name
+                Address: Just tell your owl and it will find me
               </span>
             </div>
           </div>
