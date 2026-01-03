@@ -24,10 +24,12 @@ interface Props {
   <p class="mb-5 font-light text-gray-500" style="white-space: pre-line">{article.data.summary}</p>
   <div class="flex justify-between items-center">
       <div class="flex items-center space-x-4">
+        <!-- 
         <img class="w-7 h-7 rounded-full" src={article.data.authImage} alt={article.data.author + " cover"} />
         <span class="font-medium">
             {article.data.author}
         </span>
+        -->
       </div>
       <a href={'/articles/' + article.slug} class="inline-flex items-center font-medium text-black hover:text-green">
           Read more

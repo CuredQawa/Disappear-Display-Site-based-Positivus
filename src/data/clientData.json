@@ -1,38 +1,32 @@
 [
     {
         "index": 1,
-        "name": "John Smith",
-        "role": "Marketing dierector at XYZ",
-        "comment": "We have been working with Positivus for the past year and have seen a significant increase in website traffic and leads as a result of their efforts. The team is professional, responsive, and truly cares about the success of our business. We highly recommend Positivus to any company looking to grow their online presence."
+        "name": "卡尔·爱德华·萨根",
+        "role": "天文学家、天体物理学家",
+        "comment": "再看看那个光点吧。那是这里，那是家园，那是我们。你所爱的每一个人，你认识的每一个人，你听说过的每一个人，曾经存在过的每一个人，都在它上面度过他们的一生。所有的欢乐与痛苦，所有的宗教与教条，所有的猎人与强盗，所有的英雄与懦夫，所有文明的创造者与毁灭者，所有的国王与农夫，所有热恋中的情侣，所有的父母、孩子、发明家与探险者，所有的道德导师，所有的腐败政客，所有的‘超级明星’，所有的‘最高领袖’，所有圣徒与罪人，都住在这粒悬浮在阳光中的微尘上。"
     },
     {
         "index": 2,
-        "name": "Jane Doe",
-        "role": "CEO at ABC",
-        "comment": "We chose Positivus to help us with our SEO and PPC campaigns and have been very impressed with their results. They are knowledgeable, responsive, and truly care about the success of our business. We highly recommend Positivus to any company looking to grow their online presence."
+        "name": "伯特兰·阿瑟·威廉·罗素",
+        "role": "哲学家",
+        "comment": "对爱情的渴望，对知识的追求，对人类苦难不可遏制的同情，这三种纯洁而无比强烈的激情支配了我的一生。它们像狂风一般，将我任意吹拂，越过深沉痛苦的海洋，濒临绝望的边缘。我寻求爱，首先因为它带来狂喜——这狂喜足以让人愿意用整个生命去换取短短几小时的欢愉；其次，因为它能解除孤独——那种令人战栗的孤独感，是一个人透过世界的边缘，凝视冰冷、无底、死寂的深渊；最后，因为我在爱的结合中看到了，在小小的缩影里，圣贤与诗人所梦想的天堂景象。"
     },
     {
         "index": 3,
-        "name": "Alice Johnson",
-        "role": "Owner at 123",
-        "comment": "I recently started working with Positivus and have been very impressed with their professionalism and expertise. They have helped me increase my online visibility and generate more leads for my business. I highly recommend Positivus to anyone looking to improve their online marketing strategy."
+        "name": "草薙素子",
+        "role": "《攻壳机动队》角色",
+        "comment": "如果我的身体全是义体，记忆可以被篡改，意识能上传云端，那‘我’究竟是谁？是这具躯壳？是存储的数据？还是某种无法被复制的‘ghost’（灵魂）？或许答案不在定义中，而在追问本身。正因我们不断质疑‘我是谁’，才证明我们尚未被技术异化。保持怀疑，就是保持人性。"
     },
     {
         "index": 4,
-        "name": "Bob Brown",
-        "role": "Dierector at XYZ",
-        "comment": "Positivus has been a great partner for our company. They are knowledgeable, responsive, and truly care about the success of our business. We have seen a significant increase in website traffic and leads as a result of their efforts. I highly recommend Positivus to any company looking to grow their online presence."
+        "name": "芙莉莲",
+        "role": "魔法使，长寿的精灵族",
+        "comment": "人类的生命太短了，短到我刚学会珍惜，他们就已白发苍苍。可正因为短暂，他们的每一刻才如此炽热：一句‘明天见’，一顿家常饭，一次夕阳下的沉默——对他们而言都是珍贵的永恒。我活了一千年，却直到失去他们才明白：不是时间长短决定意义，而是是否真正‘看见’了彼此。现在，我愿用余生，好好记住每一个曾照亮我的人。"
     },
     {
         "index": 5,
-        "name": "Gupta Patel",
-        "role": "Content creator",
-        "comment": "I have been working with Positivus for the past year and have been very impressed with their professionalism and expertise. They have helped me increase my online visibility and generate more leads for my business. I highly recommend Positivus to anyone looking to improve their online marketing strategy."
-    },
-    {
-        "index": 6,
-        "name": "Sara Johnson",
-        "role": "Freelancer",
-        "comment": "Positivus made a huge difference in our online presence. They are knowledgeable, responsive, and truly care about the success of our business. We have seen a significant increase in website traffic and leads as a result of their efforts. I highly recommend Positivus to any company looking to grow their online presence."
+        "name": "叶瞬光",
+        "role": "虚狩·青溟司命",
+        "comment": "小师妹，其实我还有些话 · · ·想要告诉你。她 · · · 不，是另一个“我”曾经认为，爱是诅咒，是陷阱，是某种潮湿而阴冷的东西 · · · 爱会毁了我。或许是因为过去的我总是心怀愧疚和恐惧吧，所以才会产生这样的想法。当你的内心是一片沼泽时，再温暖的阳光照进来，也会变得冰冷扭曲。但其实 · · · 不是这样的。爱是奇迹，是力量，是当我在无尽的深渊中下坠时，将我重新拉回人间的那只温暖的手。（停顿）我真的，真的很爱这个世界。"
     }
 ]
